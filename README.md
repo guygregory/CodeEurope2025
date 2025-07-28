@@ -6,26 +6,26 @@
 
 ## Session recording (YouTube)
 
-<a href="https://www.youtube.com/watch?v=E6izrVTWNWY" target="_blank" rel="noopener noreferrer">
+<a href="https://www.youtube.com/watch?v=E6izrVTWNWY">
   <img src="https://img.youtube.com/vi/E6izrVTWNWY/0.jpg" alt="Watch the video" />
 </a>
 
 ## Session deck (PDF)
 
-<a href="Code%20Europe%202025%20-%20Getting%20Started%20with%20Azure%20AI%20Foundry%20Agent%20Service%20-%20July%202025.pdf" target="_blank" rel="noopener noreferrer">
+<a href="Code%20Europe%202025%20-%20Getting%20Started%20with%20Azure%20AI%20Foundry%20Agent%20Service%20-%20July%202025.pdf">
   <img width="480" height="270" alt="Click to download the deck" src="https://github.com/user-attachments/assets/2213baee-672c-4529-8c54-1117a0d62e42" />
 </a>
 
 
 ## File Search Tool Demo (Jupyter Notebook)
 
-<a href="azure_ai_agents_file_search.ipynb" target="_blank" rel="noopener noreferrer">
+<a href="azure_ai_agents_file_search.ipynb">
 <img width="480" height="320" alt="Download the File Search demo" src="https://github.com/user-attachments/assets/4c74501d-242a-42bb-a6d4-f95c27236c00" />
 </a>
 
 
 ## MCP Tool Demo (Jupyter Notebook)
 
-<a href="azure_ai_agents_mcp.ipynb" target="_blank" rel="noopener noreferrer">
+<a href="azure_ai_agents_mcp.ipynb">
 <img width="480" height="320" alt="Download the MCP Tool demo" src="https://github.com/user-attachments/assets/31f5b110-1e8f-45c2-9dbf-46ba22a268af" />
 </a>
